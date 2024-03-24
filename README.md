@@ -1,6 +1,14 @@
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 <div align="center">
   <img src="https://camo.githubusercontent.com/ce0c4d4b1ff3ea1fb626d43de5882a452fafd1d2b9942edb13bbbbd5c34094a1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d6d77797926636f6c6f723d626c756576696f6c6574">
 </div>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+</p>
 
 
 👂 `My name is`: Adoni
