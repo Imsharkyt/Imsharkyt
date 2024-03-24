@@ -1,8 +1,8 @@
-👂 `My name is`: Adoni,
+👂 `My name is`: Adoni
 
-🤓 `Pronouns`: He/him,
+🤓 `Pronouns`: He/him
 
-⚡ `I'm`: 23 years old,
+⚡ `I'm`: 23 years old
 
 🪧`I’m currently learning`: JavaScript 
 
